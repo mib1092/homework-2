@@ -1,4 +1,4 @@
 Homework #2
 ==========
 
-домашка #2 (GH 4 season)
+GeekHub 4 season, Advanced CMS
